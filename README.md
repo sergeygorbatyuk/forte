@@ -1,2 +1,2 @@
 - npm i
-- npm playwright test
+- npx playwright test
